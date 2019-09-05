@@ -1,0 +1,5 @@
+<resources>
+       <dimen name="layout_width">440dp</dimen>
+       <dimen name="menu_icon_height">20dp</dimen>
+       <dimen name="menu_icon_width">20dp</dimen>
+</resources>

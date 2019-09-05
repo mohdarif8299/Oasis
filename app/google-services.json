@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781208822342",
+    "firebase_url": "https://swaad-6b248.firebaseio.com",
+    "project_id": "swaad-6b248",
+    "storage_bucket": "swaad-6b248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781208822342:android:8af45f1a444f2586",
+        "android_client_info": {
+          "package_name": "com.restaurent.swaad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781208822342-96ejco8sf6c4enjf4n48ok5b7fujr6d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restaurent.swaad",
+            "certificate_hash": "c85a61532ea850272144d569320223bf053b380d"
+          }
+        },
+        {
+          "client_id": "781208822342-fh7l5e02uk2mjdiucttfum6qpit7vjan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBuAyFen6MAmOwuGGw40bpvJL3kYIRkhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781208822342-fh7l5e02uk2mjdiucttfum6qpit7vjan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

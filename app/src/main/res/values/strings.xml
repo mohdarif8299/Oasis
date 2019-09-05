@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swaad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyBdTWGR1xPZj2AuxHRMrTqH7e2P8TKIi0M</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">784192331996349</string>
+    <string name="fb_login_protocol_scheme">fb784192331996349</string>
+
+</resources>
